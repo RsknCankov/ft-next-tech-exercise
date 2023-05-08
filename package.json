@@ -1,0 +1,32 @@
+{
+  "name": "next-tech-interview-exercise",
+  "version": "1.0.0",
+  "description": "The Customer Products technical pairing interview.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "just-handlebars-helpers": "^1.0.19",
+    "node-fetch": "^1.4.0",
+    "querystring": "^0.2.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "nodemon": "^2.0.6",
+    "supertest": "^6.0.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "jest --env=node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financial-Times/next-tech-interview-exercise.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/next-tech-interview-exercise/issues"
+  },
+  "homepage": "https://github.com/Financial-Times/next-tech-interview-exercise#readme"
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "items": [
+      {
+        "symbolInput": "FTSE:FSI",
+        "basic": {
+          "symbol": "FTSE:FSI",
+          "name": "FTSE 100 Index",
+          "exchange": "FTSE International",
+          "exhangeCode": "FSI",
+          "bridgeExchangeCode": "GBFT",
+          "currency": "GBP"
+        },
+        "quote": {
+          "lastPrice": 7733.6,
+          "openPrice": 7702.64,
+          "high": 7764.06,
+          "low": 7702.64,
+          "previousClosePrice": 7702.64,
+          "change1Day": 30.960000000000036,
+          "change1DayPercent": 0.4019401140388235,
+          "change1Week": -136.96999999999935,
+          "change1WeekPercent": -1.7402805641776815,
+          "timeStamp": "2023-05-05T11:07:03",
+          "volume": 151265433
+        }
+      },
+      {
+        "symbolInput": "INX:IOM",
+        "basic": {
+          "symbol": "INX:IOM",
+          "name": "S&P 500 INDEX",
+          "exchange": "CME:Index and Options Market",
+          "exhangeCode": "IOM",
+          "bridgeExchangeCode": "USCO",
+          "currency": "USD"
+        },
+        "quote": {
+          "lastPrice": 4061.2200000000003,
+          "openPrice": 4082.55,
+          "high": 4082.61,
+          "low": 4048.28,
+          "closePrice": 4061.2200000000003,
+          "previousClosePrice": 4090.75,
+          "change1Day": -29.529999999999745,
+          "change1DayPercent": -0.721872517264554,
+          "change1Week": -108.25999999999931,
+          "change1WeekPercent": -2.596486852077461,
+          "ask": 4089.71,
+          "bid": 4043.65,
+          "timeStamp": "2023-05-04T21:25:30",
+          "volume": 2876115000
+        }
+      },
+      {
+        "symbolInput": "EURUSD",
+        "basic": {
+          "symbol": "EURUSD",
+          "name": "Euro/US Dollar FX Spot Rate",
+          "exchange": "SOURCE IS A THOMSON REUTERS CONTRIBUTOR",
+          "exhangeCode": "RCT",
+          "bridgeExchangeCode": "CUX"
+        },
+        "quote": {
+          "lastPrice": 1.1022,
+          "openPrice": 1.1011,
+          "high": 1.1047,
+          "low": 1.101,
+          "closePrice": 1.1011,
+          "previousClosePrice": 1.1011,
+          "change1Day": 0.001100000000000101,
+          "change1DayPercent": 0.09990009990010906,
+          "change1Week": 0,
+          "change1WeekPercent": 0,
+          "ask": 1.1026,
+          "bid": 1.1022,
+          "timeStamp": "2023-05-05T10:50:00",
+          "volume": 0
+        }
+      },
+      {
+        "symbolInput": "GBPUSD",
+        "basic": {
+          "symbol": "GBPUSD",
+          "name": "UK Pound Sterling/US Dollar FX Spot Rate",
+          "exchange": "SOURCE IS A THOMSON REUTERS CONTRIBUTOR",
+          "exhangeCode": "RCT",
+          "bridgeExchangeCode": "CUX"
+        },
+        "quote": {
+          "lastPrice": 1.2612,
+          "openPrice": 1.2569000000000001,
+          "high": 1.2634,
+          "low": 1.2571,
+          "closePrice": 1.2572,
+          "previousClosePrice": 1.2572,
+          "change1Day": 0.0040000000000000036,
+          "change1DayPercent": 0.31816735602927165,
+          "change1Week": 0.0038000000000000256,
+          "change1WeekPercent": 0.30221091140448747,
+          "ask": 1.2613,
+          "bid": 1.2612,
+          "timeStamp": "2023-05-05T10:50:00",
+          "volume": 0
+        }
+      },
+      {
+        "symbolInput": "IB.1:IEU",
+        "basic": {
+          "symbol": "IB.1:IEU",
+          "name": "ICE Brent Crude Oil Front Month",
+          "exchange": "Intercontinental Exchange Europe",
+          "exhangeCode": "IEU",
+          "bridgeExchangeCode": "FTIE",
+          "currency": "USD"
+        },
+        "quote": {
+          "lastPrice": 74.3,
+          "openPrice": 72.69,
+          "high": 74.41,
+          "low": 72.41,
+          "closePrice": 72.5,
+          "previousClosePrice": 72.5,
+          "change1Day": 1.7999999999999972,
+          "change1DayPercent": 2.4827586206896513,
+          "change1Week": -5.210000000000008,
+          "change1WeekPercent": -6.552634888693255,
+          "ask": 74.32000000000001,
+          "askSize": 12,
+          "bid": 74.3,
+          "bidSize": 14,
+          "timeStamp": "2023-05-05T11:12:03",
+          "volume": 87862
+        }
+      }
+    ]
+  },
+  "timeGenerated": "2023-05-05T11:22:04"
+}

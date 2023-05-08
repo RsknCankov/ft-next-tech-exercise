@@ -1,0 +1,22 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="/static/home.css">
+</head>
+<body>
+<div class="markets-data-container">
+    <div class="items-container">
+        {{#each stocks}}
+            <div class="item">
+                <div class="item-name">{{basic.name}}</div>
+                <div class="item-value">
+                    <div class="{{#if (gte quote.change1DayPercent 0)}}positive{{else}}negative{{/if}}">
+                        {{formatNumber quote.change1DayPercent
+                                       format="percent"
+                                       minimumFractionDigits=2
+                                       maximumFractionDigits=2}}%
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+    </div>
+</div>
+</body>
